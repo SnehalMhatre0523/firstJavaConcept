@@ -20,6 +20,7 @@ public class ClassObjectSample {
 		
 		Person a = new Person("Hello",9,"Male");
 		a.sleep();
+		System.out.println("Hello");
 	}
 }
 
